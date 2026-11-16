@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Large arrays, checkpoints and meshes are distributed separately (see README).
+*.npz
+*.pt
+*.pth
+*.msh
+*.vtk
+*.geo
+
+# Outputs of new runs
+runs/

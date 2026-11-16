@@ -1,0 +1,1282 @@
+[
+ {
+  "index": 0,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 8.992806499463768e-15,
+  "constant_flux": 1.9539925233402755e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.22065795212984085
+ },
+ {
+  "index": 1,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.199040866595169e-14,
+  "constant_flux": 4.085620730620576e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.10192703595384955
+ },
+ {
+  "index": 2,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.326672684688674e-15,
+  "constant_flux": 4.218847493575595e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.16739414911717176
+ },
+ {
+  "index": 3,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.3766765505351941e-14,
+  "constant_flux": 3.6415315207705135e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.17458092793822289
+ },
+ {
+  "index": 4,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.1879386363489175e-14,
+  "constant_flux": 2.930988785010413e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.15496460907161236
+ },
+ {
+  "index": 5,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 3.4416913763379853e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.17299219593405724
+ },
+ {
+  "index": 6,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 9.880984919163893e-15,
+  "constant_flux": 3.375077994860476e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.17647840594872832
+ },
+ {
+  "index": 7,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.176836406102666e-14,
+  "constant_flux": 2.708944180085382e-14,
+  "equation_residual": 3.552713678800501e-14,
+  "wall_s": 0.13503789994865656
+ },
+ {
+  "index": 8,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 6.8833827526759706e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.16766072623431683
+ },
+ {
+  "index": 9,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 2.6645352591003757e-15,
+  "constant_field": 7.993605777301127e-15,
+  "constant_flux": 3.241851231905457e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.17036606092005968
+ },
+ {
+  "index": 10,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 5.662137425588298e-15,
+  "constant_flux": 2.3092638912203256e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.17755590565502644
+ },
+ {
+  "index": 11,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 7.438494264988549e-15,
+  "constant_flux": 2.842170943040401e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.19418764812871814
+ },
+ {
+  "index": 12,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.3100631690576847e-14,
+  "constant_flux": 3.863576125695545e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.1092529590241611
+ },
+ {
+  "index": 13,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 6.772360450213455e-15,
+  "constant_flux": 2.708944180085382e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.20687004923820496
+ },
+ {
+  "index": 14,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 6.217248937900877e-15,
+  "constant_field": 5.662137425588298e-15,
+  "constant_flux": 2.3092638912203256e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.10421669203788042
+ },
+ {
+  "index": 15,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.215650382226158e-15,
+  "constant_flux": 1.6209256159527285e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.1695638857781887
+ },
+ {
+  "index": 16,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 9.2148511043888e-15,
+  "constant_flux": 2.842170943040401e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.16918426379561424
+ },
+ {
+  "index": 17,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.2656542480726785e-14,
+  "constant_flux": 3.375077994860476e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.18294773995876312
+ },
+ {
+  "index": 18,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.2545520178264269e-14,
+  "constant_flux": 1.9984014443252818e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.1509183943271637
+ },
+ {
+  "index": 19,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 7.66053886991358e-15,
+  "constant_flux": 1.865174681370263e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.1880474491044879
+ },
+ {
+  "index": 20,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.3766765505351941e-14,
+  "constant_flux": 3.241851231905457e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.1213765568099916
+ },
+ {
+  "index": 21,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.2878587085651816e-14,
+  "constant_flux": 1.5987211554602254e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.18312492780387402
+ },
+ {
+  "index": 22,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.993605777301127e-15,
+  "constant_field": 8.548717289613705e-15,
+  "constant_flux": 4.085620730620576e-14,
+  "equation_residual": 3.552713678800501e-14,
+  "wall_s": 0.14483126532286406
+ },
+ {
+  "index": 23,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.770761894538737e-15,
+  "constant_flux": 3.3306690738754696e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.15872542094439268
+ },
+ {
+  "index": 24,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 9.43689570931383e-15,
+  "constant_flux": 2.3092638912203256e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.20461479015648365
+ },
+ {
+  "index": 25,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.4654943925052066e-14,
+  "constant_flux": 3.2862601528904634e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.10596776101738214
+ },
+ {
+  "index": 26,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 6.772360450213455e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.17909331899136305
+ },
+ {
+  "index": 27,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.215650382226158e-15,
+  "constant_flux": 3.419486915845482e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.2534667709842324
+ },
+ {
+  "index": 28,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 9.992007221626409e-15,
+  "constant_flux": 3.197442310920451e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.11657904228195548
+ },
+ {
+  "index": 29,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.2101430968414206e-14,
+  "constant_flux": 4.085620730620576e-14,
+  "equation_residual": 2.842170943040401e-14,
+  "wall_s": 0.09558577602729201
+ },
+ {
+  "index": 30,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.2989609388114332e-14,
+  "constant_flux": 1.9095836023552692e-14,
+  "equation_residual": 2.842170943040401e-14,
+  "wall_s": 0.16511049587279558
+ },
+ {
+  "index": 31,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.105427357601002e-15,
+  "constant_field": 5.551115123125783e-15,
+  "constant_flux": 2.4868995751603507e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.16935886535793543
+ },
+ {
+  "index": 32,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 5.88418203051333e-15,
+  "constant_flux": 2.3092638912203256e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.1699738958850503
+ },
+ {
+  "index": 33,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.3766765505351941e-14,
+  "constant_flux": 3.552713678800501e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.10641255741938949
+ },
+ {
+  "index": 34,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 8.770761894538737e-15,
+  "constant_flux": 2.4424906541753444e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.11445191688835621
+ },
+ {
+  "index": 35,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.659739592076221e-15,
+  "constant_flux": 3.419486915845482e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.09371825493872166
+ },
+ {
+  "index": 36,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 6.217248937900877e-15,
+  "constant_field": 1.2212453270876722e-14,
+  "constant_flux": 3.907985046680551e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.18679930455982685
+ },
+ {
+  "index": 37,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.1435297153639112e-14,
+  "constant_flux": 3.2862601528904634e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.12077283905819058
+ },
+ {
+  "index": 38,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 9.769962616701378e-15,
+  "constant_field": 1.2212453270876722e-14,
+  "constant_flux": 4.529709940470639e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.17968312092125416
+ },
+ {
+  "index": 39,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.2434497875801753e-14,
+  "constant_flux": 4.1744385725905886e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.17138607101514935
+ },
+ {
+  "index": 40,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 8.326672684688674e-15,
+  "constant_flux": 2.7533531010703882e-14,
+  "equation_residual": 2.842170943040401e-14,
+  "wall_s": 0.1576923169195652
+ },
+ {
+  "index": 41,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.992806499463768e-15,
+  "constant_flux": 3.375077994860476e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.16916891373693943
+ },
+ {
+  "index": 42,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.992806499463768e-15,
+  "constant_flux": 2.3092638912203256e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.16765372175723314
+ },
+ {
+  "index": 43,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 2.6645352591003757e-15,
+  "constant_field": 8.992806499463768e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.1674697231501341
+ },
+ {
+  "index": 44,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.881784197001252e-15,
+  "constant_flux": 2.4868995751603507e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.17206800915300846
+ },
+ {
+  "index": 45,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.2878587085651816e-14,
+  "constant_flux": 1.687538997430238e-14,
+  "equation_residual": 1.5987211554602254e-14,
+  "wall_s": 0.16844095010310411
+ },
+ {
+  "index": 46,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.5432100042289676e-14,
+  "constant_flux": 3.8191672047105385e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.1649308237247169
+ },
+ {
+  "index": 47,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.432187701766452e-14,
+  "constant_flux": 3.597122599785507e-14,
+  "equation_residual": 2.842170943040401e-14,
+  "wall_s": 0.16898754006251693
+ },
+ {
+  "index": 48,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.021405182655144e-14,
+  "constant_flux": 2.708944180085382e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.1680906438268721
+ },
+ {
+  "index": 49,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.3100631690576847e-14,
+  "constant_flux": 3.019806626980426e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.16632647905498743
+ },
+ {
+  "index": 50,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 7.216449660063518e-15,
+  "constant_flux": 2.6645352591003757e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.16734248120337725
+ },
+ {
+  "index": 51,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 5.88418203051333e-15,
+  "constant_flux": 3.019806626980426e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.18201135005801916
+ },
+ {
+  "index": 52,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 7.66053886991358e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.14493612619116902
+ },
+ {
+  "index": 53,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 5.773159728050814e-15,
+  "constant_flux": 2.6645352591003757e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.19375304225832224
+ },
+ {
+  "index": 54,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.3322676295501878e-14,
+  "constant_flux": 1.4210854715202004e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.14379413379356265
+ },
+ {
+  "index": 55,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.1879386363489175e-14,
+  "constant_flux": 3.597122599785507e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.1866258759982884
+ },
+ {
+  "index": 56,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.2323475573339238e-14,
+  "constant_flux": 3.019806626980426e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.11725958669558167
+ },
+ {
+  "index": 57,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.4210854715202004e-14,
+  "constant_flux": 5.062616992290714e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.18938915291801095
+ },
+ {
+  "index": 58,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.104628079763643e-15,
+  "constant_flux": 2.353672812205332e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.20513519877567887
+ },
+ {
+  "index": 59,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.993605777301127e-15,
+  "constant_field": 1.3766765505351941e-14,
+  "constant_flux": 4.529709940470639e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.11241232790052891
+ },
+ {
+  "index": 60,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.2989609388114332e-14,
+  "constant_flux": 5.3734794391857577e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.11456830985844135
+ },
+ {
+  "index": 61,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.0658141036401503e-14,
+  "constant_flux": 3.2862601528904634e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.16910986183211207
+ },
+ {
+  "index": 62,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 6.8833827526759706e-15,
+  "constant_flux": 2.708944180085382e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.17792469821870327
+ },
+ {
+  "index": 63,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.993605777301127e-15,
+  "constant_field": 1.2434497875801753e-14,
+  "constant_flux": 3.730349362740526e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.17360013211145997
+ },
+ {
+  "index": 64,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 2.6645352591003757e-15,
+  "constant_field": 6.772360450213455e-15,
+  "constant_flux": 1.9539925233402755e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.14029446803033352
+ },
+ {
+  "index": 65,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.3322676295501878e-14,
+  "constant_flux": 3.952393967665557e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.19787517096847296
+ },
+ {
+  "index": 66,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.1324274851176597e-14,
+  "constant_flux": 2.4868995751603507e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.11905034305527806
+ },
+ {
+  "index": 67,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 7.66053886991358e-15,
+  "constant_flux": 3.730349362740526e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.1700154859572649
+ },
+ {
+  "index": 68,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 9.880984919163893e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.18619377398863435
+ },
+ {
+  "index": 69,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.3988810110276972e-14,
+  "constant_flux": 3.597122599785507e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.131278941873461
+ },
+ {
+  "index": 70,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.3211653993039363e-14,
+  "constant_flux": 3.3306690738754696e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.1759983031079173
+ },
+ {
+  "index": 71,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.3211653993039363e-14,
+  "constant_flux": 4.440892098500626e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.21659564599394798
+ },
+ {
+  "index": 72,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 7.216449660063518e-15,
+  "constant_flux": 3.197442310920451e-14,
+  "equation_residual": 1.5987211554602254e-14,
+  "wall_s": 0.10126296523958445
+ },
+ {
+  "index": 73,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.0658141036401503e-14,
+  "constant_flux": 2.7977620220553945e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.15599551005288959
+ },
+ {
+  "index": 74,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.099120794378905e-14,
+  "constant_flux": 2.398081733190338e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.1753682349808514
+ },
+ {
+  "index": 75,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.105427357601002e-15,
+  "constant_field": 1.354472090042691e-14,
+  "constant_flux": 3.4638958368304884e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.15407166071236134
+ },
+ {
+  "index": 76,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.27675647831893e-14,
+  "constant_flux": 3.241851231905457e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.16484314808622003
+ },
+ {
+  "index": 77,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.354472090042691e-14,
+  "constant_flux": 1.9984014443252818e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.17511328030377626
+ },
+ {
+  "index": 78,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 6.106226635438361e-15,
+  "constant_flux": 2.398081733190338e-14,
+  "equation_residual": 1.0658141036401503e-14,
+  "wall_s": 0.17499482538551092
+ },
+ {
+  "index": 79,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 8.43769498715119e-15,
+  "constant_flux": 2.4868995751603507e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.1471744440495968
+ },
+ {
+  "index": 80,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 4.440892098500626e-15,
+  "constant_flux": 3.241851231905457e-14,
+  "equation_residual": 3.552713678800501e-14,
+  "wall_s": 0.16547727305442095
+ },
+ {
+  "index": 81,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 7.216449660063518e-15,
+  "constant_flux": 2.9753977059954195e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.11076830234378576
+ },
+ {
+  "index": 82,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.4432899320127035e-14,
+  "constant_flux": 3.552713678800501e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.12400362407788634
+ },
+ {
+  "index": 83,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.0103029524088925e-14,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.07806230802088976
+ },
+ {
+  "index": 84,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 6.8833827526759706e-15,
+  "constant_flux": 4.263256414560601e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.16403721505776048
+ },
+ {
+  "index": 85,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 7.105427357601002e-15,
+  "constant_flux": 3.552713678800501e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.17266968311741948
+ },
+ {
+  "index": 86,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.2101430968414206e-14,
+  "constant_flux": 3.730349362740526e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.15070112003013492
+ },
+ {
+  "index": 87,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.4432899320127035e-14,
+  "constant_flux": 3.907985046680551e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.2056968081742525
+ },
+ {
+  "index": 88,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.4988010832439613e-14,
+  "constant_flux": 4.440892098500626e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.10138178104534745
+ },
+ {
+  "index": 89,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 6.217248937900877e-15,
+  "constant_field": 1.2101430968414206e-14,
+  "constant_flux": 3.4638958368304884e-14,
+  "equation_residual": 2.842170943040401e-14,
+  "wall_s": 0.2562188357114792
+ },
+ {
+  "index": 90,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 9.880984919163893e-15,
+  "constant_flux": 3.019806626980426e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.12409858405590057
+ },
+ {
+  "index": 91,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.454392162258955e-14,
+  "constant_flux": 5.417888360170764e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.09161113621667027
+ },
+ {
+  "index": 92,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.1435297153639112e-14,
+  "constant_flux": 2.398081733190338e-14,
+  "equation_residual": 2.842170943040401e-14,
+  "wall_s": 0.20704478211700916
+ },
+ {
+  "index": 93,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.176836406102666e-14,
+  "constant_flux": 2.7533531010703882e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.1014107852242887
+ },
+ {
+  "index": 94,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 8.104628079763643e-15,
+  "constant_flux": 2.6645352591003757e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.17160684103146195
+ },
+ {
+  "index": 95,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 7.993605777301127e-15,
+  "constant_flux": 3.019806626980426e-14,
+  "equation_residual": 1.0658141036401503e-14,
+  "wall_s": 0.16126059275120497
+ },
+ {
+  "index": 96,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.881784197001252e-15,
+  "constant_flux": 2.7977620220553945e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.16465526027604938
+ },
+ {
+  "index": 97,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.993605777301127e-15,
+  "constant_field": 1.1213252548714081e-14,
+  "constant_flux": 3.4638958368304884e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.1663689687848091
+ },
+ {
+  "index": 98,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.2434497875801753e-14,
+  "constant_flux": 3.2862601528904634e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.17659621220082045
+ },
+ {
+  "index": 99,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.1546319456101628e-14,
+  "constant_flux": 2.708944180085382e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.2023840071633458
+ },
+ {
+  "index": 100,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.021405182655144e-14,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.10821021674200892
+ },
+ {
+  "index": 101,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 5.329070518200751e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.21257515018805861
+ },
+ {
+  "index": 102,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 2.6645352591003757e-15,
+  "constant_field": 1.2212453270876722e-14,
+  "constant_flux": 2.4424906541753444e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.1123048746958375
+ },
+ {
+  "index": 103,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 6.217248937900877e-15,
+  "constant_field": 7.327471962526033e-15,
+  "constant_flux": 1.5987211554602254e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.20203951187431812
+ },
+ {
+  "index": 104,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 9.43689570931383e-15,
+  "constant_flux": 1.9539925233402755e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.10458617378026247
+ },
+ {
+  "index": 105,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.0325074129013956e-14,
+  "constant_flux": 1.9095836023552692e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.1982965744100511
+ },
+ {
+  "index": 106,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 9.880984919163893e-15,
+  "constant_flux": 4.39648317751562e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.11893889075145125
+ },
+ {
+  "index": 107,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.27675647831893e-14,
+  "constant_flux": 4.085620730620576e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.16784324310719967
+ },
+ {
+  "index": 108,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.0103029524088925e-14,
+  "constant_flux": 2.842170943040401e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.20272901421412826
+ },
+ {
+  "index": 109,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.105427357601002e-15,
+  "constant_field": 5.329070518200751e-15,
+  "constant_flux": 1.7763568394002505e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.10336146596819162
+ },
+ {
+  "index": 110,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 2.6645352591003757e-15,
+  "constant_field": 1.4654943925052066e-14,
+  "constant_flux": 1.5987211554602254e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.19484961684793234
+ },
+ {
+  "index": 111,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 2.6645352591003757e-15,
+  "constant_field": 5.10702591327572e-15,
+  "constant_flux": 2.1316282072803006e-14,
+  "equation_residual": 1.0658141036401503e-14,
+  "wall_s": 0.13144268281757832
+ },
+ {
+  "index": 112,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 8.43769498715119e-15,
+  "constant_flux": 2.398081733190338e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.19946786109358072
+ },
+ {
+  "index": 113,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 9.992007221626409e-15,
+  "constant_flux": 3.064215547965432e-14,
+  "equation_residual": 3.197442310920451e-14,
+  "wall_s": 0.11368693318217993
+ },
+ {
+  "index": 114,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 1.0436096431476471e-14,
+  "constant_flux": 3.730349362740526e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.1974219400435686
+ },
+ {
+  "index": 115,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 9.103828801926284e-15,
+  "constant_flux": 3.197442310920451e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.1194376409985125
+ },
+ {
+  "index": 116,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 9.103828801926284e-15,
+  "constant_flux": 3.375077994860476e-14,
+  "equation_residual": 1.4210854715202004e-14,
+  "wall_s": 0.17203046707436442
+ },
+ {
+  "index": 117,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 6.217248937900877e-15,
+  "constant_field": 1.1213252548714081e-14,
+  "constant_flux": 2.842170943040401e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.21170275006443262
+ },
+ {
+  "index": 118,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 7.771561172376096e-15,
+  "constant_flux": 3.730349362740526e-14,
+  "equation_residual": 1.0658141036401503e-14,
+  "wall_s": 0.11162759689614177
+ },
+ {
+  "index": 119,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 6.5503158452884236e-15,
+  "constant_flux": 2.7977620220553945e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.1880456260405481
+ },
+ {
+  "index": 120,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.105427357601002e-15,
+  "constant_field": 1.4876988529977098e-14,
+  "constant_flux": 3.863576125695545e-14,
+  "equation_residual": 2.4868995751603507e-14,
+  "wall_s": 0.18022426078096032
+ },
+ {
+  "index": 121,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.354472090042691e-14,
+  "constant_flux": 1.6431300764452317e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.1056071063503623
+ },
+ {
+  "index": 122,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 4.440892098500626e-15,
+  "constant_field": 9.658940314238862e-15,
+  "constant_flux": 3.9968028886505635e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.11483393516391516
+ },
+ {
+  "index": 123,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.432187701766452e-14,
+  "constant_flux": 4.39648317751562e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.10329070873558521
+ },
+ {
+  "index": 124,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 1.176836406102666e-14,
+  "constant_flux": 3.8191672047105385e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.1719376016408205
+ },
+ {
+  "index": 125,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 5.329070518200751e-15,
+  "constant_field": 1.099120794378905e-14,
+  "constant_flux": 4.085620730620576e-14,
+  "equation_residual": 3.197442310920451e-14,
+  "wall_s": 0.18875689012929797
+ },
+ {
+  "index": 126,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 3.552713678800501e-15,
+  "constant_field": 8.881784197001252e-15,
+  "constant_flux": 2.6645352591003757e-14,
+  "equation_residual": 1.7763568394002505e-14,
+  "wall_s": 0.14001545729115605
+ },
+ {
+  "index": 127,
+  "k_min": 3.0,
+  "k_max": 12.0,
+  "symmetry": 7.105427357601002e-15,
+  "constant_field": 1.021405182655144e-14,
+  "constant_flux": 3.197442310920451e-14,
+  "equation_residual": 2.1316282072803006e-14,
+  "wall_s": 0.17204373329877853
+ }
+]

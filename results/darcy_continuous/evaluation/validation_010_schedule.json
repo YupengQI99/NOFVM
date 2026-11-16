@@ -1,0 +1,52 @@
+{
+ "reference_first": [
+  "fv64",
+  0
+ ],
+ "remaining": [
+  [
+   "neural",
+   0
+  ],
+  [
+   "neural",
+   2
+  ],
+  [
+   "exact_condensed",
+   2
+  ],
+  [
+   "exact_condensed",
+   1
+  ],
+  [
+   "fv64",
+   1
+  ],
+  [
+   "fv64",
+   2
+  ],
+  [
+   "exact_condensed",
+   0
+  ],
+  [
+   "fv32",
+   2
+  ],
+  [
+   "fv32",
+   1
+  ],
+  [
+   "neural",
+   1
+  ],
+  [
+   "fv32",
+   0
+  ]
+ ]
+}

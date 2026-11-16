@@ -1,0 +1,42 @@
+{
+ "local_field_errors": [
+  0.0464071035070992,
+  0.004537686642703746,
+  0.0008131861792458734,
+  0.03920500471457799
+ ],
+ "local_flux_errors": [
+  0.3912671472164791,
+  0.47702090084280296,
+  0.29860734602084005,
+  0.44961373913051794
+ ],
+ "local_field": {
+  "median": 0.021871345678640866,
+  "p95": 0.045326788688221015,
+  "maximum": 0.0464071035070992
+ },
+ "local_flux": {
+  "median": 0.4204404431734985,
+  "p95": 0.4729098265859602,
+  "maximum": 0.47702090084280296
+ },
+ "internal_discrete_residual": {
+  "median": 0.006492412349993419,
+  "p95": 0.015175575367660657,
+  "maximum": 0.01595548057566442
+ },
+ "internal_residual_by_load": [
+  0.010756112522306014,
+  0.0022287121776808235,
+  0.0003468306565565746,
+  0.01595548057566442
+ ],
+ "physical_flux_mismatch": 4.9633908094648405e-14,
+ "minimum_harmonic_weight": -0.25307021139068325,
+ "diagnostic_trace_sha256": "27d4f903fab6684beace5d90ab96a72c2c728c2be5b80c2bfe2222bfc84ce735",
+ "reference_trace_used_only_for_posthoc_local_diagnostic": true,
+ "reference_refinement": null,
+ "exact_coupled_trace_sha256": "a306b309c92293f2bcbf281fd3301dad7084941e7d96886e9ec31f04a753f68f",
+ "neural_coupled_trace_sha256": "727aea8c992fd0c1d005492b311fb5c655970aa246a9b3ae2b5118764562eecf"
+}

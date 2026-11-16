@@ -1,0 +1,46 @@
+{
+ "completed": 1791029195.157478,
+ "family": "jump",
+ "training": {
+  "steps": 4000,
+  "selected_step": 200,
+  "selection_objective": 0.07670307159423828,
+  "seed": 1302,
+  "batch_size": 8,
+  "internal_points_per_step": 512,
+  "train_materials": 128,
+  "validation_materials": 16,
+  "test_materials_generated": 0,
+  "parameters": 1620672,
+  "fixed_buffer_elements": 654908,
+  "training_s": 44.69874010514468,
+  "peak_gpu_allocated_gib": 0.5591835975646973,
+  "checkpoint_sha256": "7e4c3d4a3d282db01cd1dba86b953a3dbc1dd3c4f2c0fbac6fdbe03cfa3c315a"
+ },
+ "train_labels": {
+  "seed": 2026100321,
+  "material_count": 128,
+  "rhs_per_material": 128,
+  "rhs_count": 16384,
+  "elapsed_s": 33.52040388202295,
+  "label_sha256": "e39c97f8517ea15a0feb3dc5911ba733468652cba3e67189f3ed6de6fda823fa",
+  "k_min": 3.0,
+  "k_max": 12.0
+ },
+ "validation_labels": {
+  "seed": 2026100322,
+  "material_count": 16,
+  "rhs_per_material": 128,
+  "rhs_count": 2048,
+  "elapsed_s": 4.153987656813115,
+  "label_sha256": "d4973649467fd5d305eaf96b3980f5c8cc8005c93a909ecb758753c76395d122",
+  "k_min": 3.0,
+  "k_max": 12.0
+ },
+ "homogeneous_baseline_rhs": 128,
+ "homogeneous_baseline_s": 0.22771778889000416,
+ "run_kind": "full",
+ "coupling_smoke_completed": false,
+ "test_materials_generated": 0,
+ "full_system_evaluation_completed": false
+}

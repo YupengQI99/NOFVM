@@ -1,0 +1,36 @@
+{
+ "case_count": 9,
+ "checkpoint_sha256": "f3976376c69dff927df00346f676efb1db8bcc22942e1eb6b46f762b7b576157",
+ "variable_order": [
+  "density",
+  "velocity",
+  "pressure"
+ ],
+ "neural_l1_median": [
+  0.004297693945632837,
+  0.009124875682363236,
+  0.0038622558839489104
+ ],
+ "neural_l1_p95": [
+  0.005210256393095676,
+  0.010466742910609774,
+  0.004125721827451065
+ ],
+ "neural_l2_median": [
+  0.006799430134731392,
+  0.02409887276674885,
+  0.006864154900671574
+ ],
+ "maximum_conservation_error": 2.19824158875781e-14,
+ "maximum_mean_error": 3.3306690738754696e-16,
+ "maximum_sod_shock_position_error": 0.0007520716910972558,
+ "online_speed_ratio": 0.1854353974933948,
+ "full_fv1024_median_s": 0.2531566568650305,
+ "neural_median_s": 1.3652013600803912,
+ "local_state_compression": 8,
+ "global_retained_scalars": 2736,
+ "full_fv1024_scalars": 3072,
+ "positivity_step_limiter_calls": 0,
+ "decoder_limited_cells": 0,
+ "extra_classical_comparison": "coarse_subdomain is supplemental; full FVM is the main baseline"
+}

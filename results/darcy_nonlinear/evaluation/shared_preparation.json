@@ -1,0 +1,6 @@
+{
+ "model_load_s": 0.16113385278731585,
+ "exact_cache_generation_s": 0.03204892063513398,
+ "exact_rhs": 128,
+ "neural_response_sha256": "98cfb68b87f9a56daaab59694fc61b0d31efcec3bdfedfe27c09fef64f1354cf"
+}

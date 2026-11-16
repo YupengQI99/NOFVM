@@ -1,0 +1,70 @@
+{
+ "local_field_errors": [
+  0.08500290920224941,
+  0.021993805374633656,
+  0.011731795065188908,
+  0.01874889905354772
+ ],
+ "local_flux_errors": [
+  0.5371629817439026,
+  0.7376321465739862,
+  0.5069039765250981,
+  0.5066017245355705
+ ],
+ "local_field": {
+  "median": 0.02037135221409069,
+  "p95": 0.07555154362810702,
+  "maximum": 0.08500290920224941
+ },
+ "local_flux": {
+  "median": 0.5220334791345004,
+  "p95": 0.7075617718494737,
+  "maximum": 0.7376321465739862
+ },
+ "internal_discrete_residual": {
+  "median": 0.006984749635015757,
+  "p95": 0.012895597406752637,
+  "maximum": 0.013673229453366234
+ },
+ "internal_residual_by_load": [
+  0.013673229453366234,
+  0.0084890158092756,
+  0.004311701696781861,
+  0.005480483460755913
+ ],
+ "physical_flux_mismatch": 2.5310434121818683e-14,
+ "minimum_harmonic_weight": -0.3768630370995677,
+ "diagnostic_trace_sha256": "f72d4bf762160fc8bf2e28abbc4c732a26f3788e6f75a15c6d913239a78fcf42",
+ "reference_trace_used_only_for_posthoc_local_diagnostic": true,
+ "reference_refinement": {
+  "coarse_unknowns": 16384,
+  "fine_unknowns": 65536,
+  "load_ids": [
+   0,
+   1
+  ],
+  "field_errors": [
+   0.000453941612675849,
+   0.0005579208304410431
+  ],
+  "interface_flux_errors": [
+   0.008993291282678218,
+   0.0159752887136388
+  ],
+  "scope": "First four test materials, two loads each; differences are not rigorous error bounds"
+ },
+ "cpu_gpu": {
+  "cpu_preparation": {
+   "wall_s": 0.02218759013339877,
+   "cpu_s": 0.022187591999994538
+  },
+  "gpu_preparation": {
+   "wall_s": 0.00451291399076581,
+   "cpu_s": 0.004514104000001851
+  },
+  "H_max_absolute": 1.1546594780309505e-07,
+  "S_max_absolute": 2.6826053485251578e-06
+ },
+ "exact_coupled_trace_sha256": "ddb4f1bac22f058d880117bcfcfcb6deefe8ecc8661f64d2ed4c9057744d9ae5",
+ "neural_coupled_trace_sha256": "74aa716b8a955909ef8442afc2cb88ba44404597267f561ecd03b698cc0a3e23"
+}

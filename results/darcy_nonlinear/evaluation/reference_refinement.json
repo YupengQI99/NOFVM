@@ -1,0 +1,19 @@
+{
+ "load_ids": [
+  0,
+  1,
+  24
+ ],
+ "field_errors": [
+  1.1383068595340885e-05,
+  3.2346542903341964e-05,
+  8.094918782008117e-05
+ ],
+ "flux_errors": [
+  0.0052558789510921255,
+  0.00555601903850259,
+  0.0028915394562232374
+ ],
+ "fine_unknowns": 65536,
+ "comparison": "Four fine pressure centers averaged per coarse FV cell"
+}

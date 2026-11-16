@@ -1,0 +1,16 @@
+{
+ "samples": {
+  "full_fv1024": [
+   0.25473964493721724,
+   0.24833838688209653,
+   0.2531566568650305
+  ],
+  "neural": [
+   1.3644966348074377,
+   1.3652013600803912,
+   1.3774834317155182
+  ]
+ },
+ "backend": "single-thread CPU",
+ "scope": "Complete SSPRK2 evolution to 0.2 and five full-field outputs; trained model already loaded"
+}

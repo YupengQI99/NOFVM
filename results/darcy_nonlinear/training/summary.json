@@ -1,0 +1,29 @@
+{
+ "completed": 1791035542.8996432,
+ "steps": 4000,
+ "selected_step": 4000,
+ "seed": 1403,
+ "training_s": 9.563963444903493,
+ "label_preparation_s": 0.1754300487227738,
+ "label_rhs": 128,
+ "geometry_count": 1,
+ "initial_relative_errors": {
+  "H": 0.1581932447902229,
+  "S": 0.2868826958559475
+ },
+ "deployed_relative_errors": {
+  "H": 0.02381351304477815,
+  "S": 0.0006871790844065427
+ },
+ "parameters": 43584,
+ "fixed_buffer_elements": 703548,
+ "peak_gpu_allocated_gib": 0.07539081573486328,
+ "checkpoint_sha256": "a02c1ac604e192fc4f125297a2a521d42be10180a6a3a0f991d949d60bf08c41",
+ "labels_sha256": "6abe658d1a2addcf688bff18a25817365fedc274af431b588f5fcc8a2695d5c4",
+ "deployed_response_sha256": "98cfb68b87f9a56daaab59694fc61b0d31efcec3bdfedfe27c09fef64f1354cf",
+ "test_inputs_generated": 0,
+ "minimum_harmonic_weight": -2.381298965756695e-05,
+ "field_flux_identity_error": 4.440892098500626e-16,
+ "selection_scope": "Full training basis objective; not an independent validation cohort",
+ "inference_contains_target_classical_response": false
+}

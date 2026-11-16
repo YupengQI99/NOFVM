@@ -1,0 +1,8 @@
+{
+ "seed": 2026100342,
+ "independent_initial_conditions": 32,
+ "windows": 2560,
+ "wall_s": 1.0810652081854641,
+ "minimum_density": 0.08130427449941635,
+ "minimum_pressure": 0.06018650531768799
+}

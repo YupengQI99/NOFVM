@@ -1,0 +1,1427 @@
+{
+ "passed": true,
+ "checks": [
+  {
+   "name": "reuse_p1/boundary",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/reference_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/neural/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/exact_cached/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv1/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p1/fv2/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/boundary",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/reference_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/neural/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/exact_cached/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv1/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p10/fv2/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/boundary",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/reference_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/neural/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/exact_cached/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv1/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p2/fv2/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/boundary",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/reference_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/neural/selected_field",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/exact_cached/selected_field",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv1/selected_field",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p3/fv2/selected_field",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/boundary",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/reference_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/neural/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/exact_cached/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv1/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "reuse_p5/fv2/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/boundary",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/reference_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/neural/selected_field",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/exact_cached/selected_field",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv1/selected_field",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/all_field_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/all_flux_errors",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/saved_flux",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/balance",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/constant",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/repeat_0_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/repeat_0_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/repeat_1_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/repeat_1_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/repeat_2_accuracy",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/repeat_2_cost",
+   "passed": true,
+   "value": null
+  },
+  {
+   "name": "single_p1/fv2/selected_field",
+   "passed": true,
+   "value": null
+  }
+ ],
+ "count": 284,
+ "scope": "Independent rerun of all 24 method/layout-cohort combinations; every nonconstant field/flux error and constant control, all saved fluxes and selected fields. Runtime samples are checked arithmetically, not reproduced as equal wall times."
+}

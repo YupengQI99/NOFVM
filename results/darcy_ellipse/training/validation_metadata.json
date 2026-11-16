@@ -1,0 +1,10 @@
+{
+ "seed": 2026100332,
+ "material_count": 16,
+ "rhs_per_material": 128,
+ "rhs_count": 2048,
+ "elapsed_s": 1.620150721166283,
+ "label_sha256": "5d15ec7fbc0ae416ab03b67ff05716df99d3df4cb46f4fac514a2ec8fea95458",
+ "k_min": 1.0,
+ "k_max": 1000.0
+}

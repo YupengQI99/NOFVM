@@ -1,0 +1,42 @@
+{
+ "maximum_absolute_error": 0.0,
+ "history": [
+  {
+   "time": 0.2,
+   "global_budget_error": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "integrated_external_flux": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "region_budget_error": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "integrated_region_flux": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "reconstruction_mean_error": 0.0
+  }
+ ],
+ "wall_s": 0.8255561739206314,
+ "steps": 770,
+ "retained_conserved_scalars": 2736,
+ "fine_conserved_scalars": 3072,
+ "local_conserved_scalars": 48,
+ "local_replaced_scalars": 384,
+ "decode_calls": 1541,
+ "decode_limited_cells": 0,
+ "minimum_decode_theta": 1.0,
+ "positivity_step_limiter_calls": 0,
+ "minimum_step_theta": 1.0,
+ "minimum_density": 0.9,
+ "minimum_pressure": 0.8
+}

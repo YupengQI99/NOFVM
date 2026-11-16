@@ -1,0 +1,10 @@
+{
+ "steps": 6000,
+ "selected_step": 6000,
+ "best_validation_loss": 0.0001893828739412129,
+ "initial_validation_loss": 0.0004159546195296571,
+ "training_s": 23.747061559930444,
+ "parameters": 24933,
+ "peak_gpu_allocated_gib": 0.10862541198730469,
+ "checkpoint_sha256": "f3976376c69dff927df00346f676efb1db8bcc22942e1eb6b46f762b7b576157"
+}

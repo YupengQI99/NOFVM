@@ -1,0 +1,422 @@
+{
+ "problem": {
+  "name": "B2",
+  "length": 1.0,
+  "blocks": 10,
+  "velocity": 1.0,
+  "kmean": 1.0,
+  "source_integral": 0.16666666666666666
+ },
+ "layouts": [
+  {
+   "layout": "all_neural",
+   "neural_regions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loads": 101,
+   "unknowns": 9,
+   "ordinary_cells": 0,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 0.00019501235256527564,
+     "p95": 0.00020987390812357836,
+     "maximum": 0.00021493121251641822
+    },
+    "gradient": {
+     "median": 0.0008282843494766093,
+     "p95": 0.0008297793476836732,
+     "maximum": 0.0008302502933375348
+    },
+    "total_flux": {
+     "median": 0.00038221624321363874,
+     "p95": 0.0004061264851234106,
+     "maximum": 0.0004139865399046851
+    },
+    "interface_flux": {
+     "median": 0.00010835317037408086,
+     "p95": 0.00011676756521984982,
+     "maximum": 0.00011734471389920845
+    }
+   },
+   "region_balance_absolute": 8.326672684688674e-17,
+   "interface_balance_absolute": 4.467576432685356e-16,
+   "constant_field_absolute": 8.881784197001252e-16,
+   "constant_flux_absolute": 1.3322676295501878e-15,
+   "linear_residual": 5.828670879282072e-16,
+   "assembly_three_rhs_s": 0.0018115672282874584,
+   "original_zero_bc": {
+    "field": 0.0001935534022321371,
+    "gradient": 0.0008282876189147843,
+    "total_flux": 0.0003799147042411761
+   },
+   "original_zero_bc_min_field": 0.0003205375253951449
+  },
+  {
+   "layout": "mixed_2_1",
+   "neural_regions": [
+    7,
+    8
+   ],
+   "loads": 101,
+   "unknowns": 2057,
+   "ordinary_cells": 2048,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 3.0216710108835767e-05,
+     "p95": 3.3262810309337845e-05,
+     "maximum": 3.39592857042446e-05
+    },
+    "gradient": {
+     "median": 0.0002054112198920784,
+     "p95": 0.00021064912977219186,
+     "maximum": 0.00021267914406943652
+    },
+    "total_flux": {
+     "median": 8.826571800441608e-05,
+     "p95": 9.497118626685965e-05,
+     "maximum": 9.564641270521013e-05
+    },
+    "interface_flux": {
+     "median": 9.967418454221496e-08,
+     "p95": 1.171435081626439e-07,
+     "maximum": 1.22143673785641e-07
+    }
+   },
+   "region_balance_absolute": 3.498136420194064e-13,
+   "interface_balance_absolute": 1.304480704605249e-13,
+   "constant_field_absolute": 1.2216894162975223e-12,
+   "constant_flux_absolute": 1.6324719354088302e-12,
+   "linear_residual": 2.2737367544323206e-13,
+   "assembly_three_rhs_s": 1.216004149056971,
+   "original_zero_bc": {
+    "field": 2.9851818642008236e-05,
+    "gradient": 0.00020539729754383417,
+    "total_flux": 8.774666120441279e-05
+   },
+   "original_zero_bc_min_field": 0.000320386658982225
+  },
+  {
+   "layout": "mixed_2_2",
+   "neural_regions": [
+    0,
+    7
+   ],
+   "loads": 101,
+   "unknowns": 2057,
+   "ordinary_cells": 2048,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 6.636947848400693e-05,
+     "p95": 7.189576938250462e-05,
+     "maximum": 7.32864417524978e-05
+    },
+    "gradient": {
+     "median": 0.0001479368758936211,
+     "p95": 0.00016291496413340165,
+     "maximum": 0.0001686023753625388
+    },
+    "total_flux": {
+     "median": 8.61181590477615e-05,
+     "p95": 9.307271237781896e-05,
+     "maximum": 9.348182891296669e-05
+    },
+    "interface_flux": {
+     "median": 6.881127446049483e-05,
+     "p95": 7.415819994063239e-05,
+     "maximum": 7.449919945878928e-05
+    }
+   },
+   "region_balance_absolute": 7.856668548279313e-13,
+   "interface_balance_absolute": 9.64915075772994e-14,
+   "constant_field_absolute": 5.577760475716786e-13,
+   "constant_flux_absolute": 9.110490140074035e-13,
+   "linear_residual": 1.5158252257563287e-13,
+   "assembly_three_rhs_s": 0.06350434990599751,
+   "original_zero_bc": {
+    "field": 6.551053093890326e-05,
+    "gradient": 0.00014796588818536828,
+    "total_flux": 8.490567696292228e-05
+   },
+   "original_zero_bc_min_field": 0.0003204725514025524
+  },
+  {
+   "layout": "mixed_4_1",
+   "neural_regions": [
+    3,
+    4,
+    6,
+    7
+   ],
+   "loads": 101,
+   "unknowns": 1545,
+   "ordinary_cells": 1536,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 4.286256137332418e-05,
+     "p95": 4.7323035567860324e-05,
+     "maximum": 4.774885630639547e-05
+    },
+    "gradient": {
+     "median": 0.00021124531557735536,
+     "p95": 0.00023328830666645298,
+     "maximum": 0.00024153488485046559
+    },
+    "total_flux": {
+     "median": 9.512066670746529e-05,
+     "p95": 0.00010402477115573144,
+     "maximum": 0.00010525613500502475
+    },
+    "interface_flux": {
+     "median": 4.817869594236584e-06,
+     "p95": 5.199115848132838e-06,
+     "maximum": 5.2434601617477044e-06
+    }
+   },
+   "region_balance_absolute": 3.9198708600170577e-13,
+   "interface_balance_absolute": 6.696494314946882e-14,
+   "constant_field_absolute": 5.651035195342047e-13,
+   "constant_flux_absolute": 8.15347789284715e-13,
+   "linear_residual": 2.2737367544323206e-13,
+   "assembly_three_rhs_s": 0.05175710003823042,
+   "original_zero_bc": {
+    "field": 4.21502005808589e-05,
+    "gradient": 0.00021128854818312388,
+    "total_flux": 9.392702249198727e-05
+   },
+   "original_zero_bc_min_field": 0.0003203944175541335
+  },
+  {
+   "layout": "mixed_4_2",
+   "neural_regions": [
+    3,
+    4,
+    6,
+    9
+   ],
+   "loads": 101,
+   "unknowns": 1545,
+   "ordinary_cells": 1536,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 0.00013315367684147713,
+     "p95": 0.00014307104277216503,
+     "maximum": 0.0001465687277647771
+    },
+    "gradient": {
+     "median": 0.0007643223518541796,
+     "p95": 0.0007681063588456479,
+     "maximum": 0.000769382070914977
+    },
+    "total_flux": {
+     "median": 0.0003353102523039601,
+     "p95": 0.0003554275896590693,
+     "maximum": 0.00036251670233966636
+    },
+    "interface_flux": {
+     "median": 4.763591394589262e-06,
+     "p95": 5.140763673334129e-06,
+     "maximum": 5.184688787360136e-06
+    }
+   },
+   "region_balance_absolute": 8.222127886791978e-13,
+   "interface_balance_absolute": 2.3396489215176265e-13,
+   "constant_field_absolute": 5.493383525845275e-13,
+   "constant_flux_absolute": 8.162359677044151e-13,
+   "linear_residual": 2.2737367544323206e-13,
+   "assembly_three_rhs_s": 0.029994220938533545,
+   "original_zero_bc": {
+    "field": 0.00013205446266185543,
+    "gradient": 0.0007643112277759825,
+    "total_flux": 0.0003329478838209615
+   },
+   "original_zero_bc_min_field": 0.00032039432830748753
+  },
+  {
+   "layout": "mixed_8_1",
+   "neural_regions": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loads": 101,
+   "unknowns": 521,
+   "ordinary_cells": 512,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 8.903306526021116e-05,
+     "p95": 9.60739482121304e-05,
+     "maximum": 9.823719928863058e-05
+    },
+    "gradient": {
+     "median": 0.00036061674072413184,
+     "p95": 0.00038027074283381653,
+     "maximum": 0.0003878827863678916
+    },
+    "total_flux": {
+     "median": 0.00016914559734355073,
+     "p95": 0.00017993197029155843,
+     "maximum": 0.00018286982413311454
+    },
+    "interface_flux": {
+     "median": 0.00010718972371221711,
+     "p95": 0.00011551518028877637,
+     "maximum": 0.00011607501081942395
+    }
+   },
+   "region_balance_absolute": 2.799978197253961e-13,
+   "interface_balance_absolute": 2.8105899926254205e-14,
+   "constant_field_absolute": 3.1885605267234496e-13,
+   "constant_flux_absolute": 5.302425165609748e-13,
+   "linear_residual": 8.526512829121202e-14,
+   "assembly_three_rhs_s": 0.010928062722086906,
+   "original_zero_bc": {
+    "field": 8.827686977523716e-05,
+    "gradient": 0.00036065422662843614,
+    "total_flux": 0.00016712963691431303
+   },
+   "original_zero_bc_min_field": 0.0003205356170635068
+  },
+  {
+   "layout": "mixed_8_2",
+   "neural_regions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "loads": 101,
+   "unknowns": 521,
+   "ordinary_cells": 512,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 8.78773118927406e-05,
+     "p95": 9.458990103117389e-05,
+     "maximum": 9.664035359566353e-05
+    },
+    "gradient": {
+     "median": 0.0003698872259043511,
+     "p95": 0.00039049415763261374,
+     "maximum": 0.00039841264990953884
+    },
+    "total_flux": {
+     "median": 0.00017188970968941096,
+     "p95": 0.00018302964110338975,
+     "maximum": 0.00018589117484772016
+    },
+    "interface_flux": {
+     "median": 0.00010838912598218604,
+     "p95": 0.00011680780701898883,
+     "maximum": 0.0001173733774568261
+    }
+   },
+   "region_balance_absolute": 2.014528090315481e-13,
+   "interface_balance_absolute": 3.704281180434442e-14,
+   "constant_field_absolute": 1.2179146580137967e-13,
+   "constant_flux_absolute": 5.613287612504791e-13,
+   "linear_residual": 1.8947804479932384e-13,
+   "assembly_three_rhs_s": 0.01157429302111268,
+   "original_zero_bc": {
+    "field": 8.674234771330824e-05,
+    "gradient": 0.0003699267844675569,
+    "total_flux": 0.0001698229325011845
+   },
+   "original_zero_bc_min_field": 0.0003205375883507637
+  },
+  {
+   "layout": "all_fv",
+   "neural_regions": [],
+   "loads": 101,
+   "unknowns": 2569,
+   "ordinary_cells": 2560,
+   "interface_unknowns": 9,
+   "reference_full_fv_unknowns": 2560,
+   "metrics": {
+    "field": {
+     "median": 1.5924334619392666e-07,
+     "p95": 1.7304030271196878e-07,
+     "maximum": 1.7579639309247185e-07
+    },
+    "gradient": {
+     "median": 3.3335188148751386e-06,
+     "p95": 3.6468773865713874e-06,
+     "maximum": 3.7621457719657858e-06
+    },
+    "total_flux": {
+     "median": 1.3597445306822853e-06,
+     "p95": 1.4735884413150605e-06,
+     "maximum": 1.480661060933226e-06
+    },
+    "interface_flux": {
+     "median": 1.2396946885071208e-07,
+     "p95": 1.3360500829641448e-07,
+     "maximum": 1.341982781928269e-07
+    }
+   },
+   "region_balance_absolute": 3.7824338593085887e-13,
+   "interface_balance_absolute": 1.2492526872927605e-13,
+   "constant_field_absolute": 1.2538858840116518e-12,
+   "constant_flux_absolute": 1.6981971384666394e-12,
+   "linear_residual": 2.2737367544323206e-13,
+   "assembly_three_rhs_s": 0.08703278889879584,
+   "original_zero_bc": {
+    "field": 1.5691584020863134e-07,
+    "gradient": 3.3341418362789573e-06,
+    "total_flux": 1.3406700630385625e-06
+   },
+   "original_zero_bc_min_field": 0.0003203866976410197
+  }
+ ],
+ "local_basis_errors": {
+  "h": 4.74385926897936e-05,
+  "z": 3.313598789778912e-05,
+  "dh": 0.0007076190727754141,
+  "dz": 0.0009982455446498027,
+  "C_relative": 0.0009603454865569905,
+  "c_relative": 2.3794960716472247e-05
+ },
+ "interior_strong_residual": {
+  "homogeneous_rms": 0.08978955913981447,
+  "unit_source_rms": 0.009323003780722839,
+  "definition": "RMS(dj/dx-source) on 2049 interior points; dimensional absolute residual",
+  "scope": "Diagnostic only; hard constraints ensure region balance, not this residual"
+ },
+ "test_seed": 202610032,
+ "test_loads_sha256": "65e2b7b52d06bf2987245115893340f89cbc7da1d9b2a04dde2b3583efe50995",
+ "distinct_test_boundary_pairs": 101,
+ "source_variations": 1,
+ "unseen_materials": 0,
+ "total_evaluation_s": 1.9326925510540605,
+ "timing_scope": "Observed cost only, not a controlled speedup comparison"
+}

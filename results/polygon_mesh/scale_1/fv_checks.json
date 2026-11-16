@@ -1,0 +1,18 @@
+{
+ "constant_error": 5.329070518200751e-15,
+ "residual": 2.6645352591003757e-15,
+ "global_balance": 6.5780714209040525e-15,
+ "local_balance": 5.887651477465283e-15,
+ "harmonic_relative_l2": 0.00016355611160999412,
+ "checks": {
+  "constant_preservation": true,
+  "linear_residual": true,
+  "global_heat_balance": true,
+  "local_heat_balance": true,
+  "maximum_principle": true,
+  "symmetric_matrix": true,
+  "nonpositive_offdiagonal": true,
+  "connected_graph": true
+ },
+ "passed": true
+}

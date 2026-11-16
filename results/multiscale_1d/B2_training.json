@@ -1,0 +1,122 @@
+{
+ "selected_step": 4000,
+ "updates": 4000,
+ "seed": 13,
+ "selection": "normalized independent spatial field MSE + 0.1 coordinate derivative MSE",
+ "unique_local_rhs": 3,
+ "labels_sha256": "09a6a8c6e8e6da29d6cb2952ad5cfdc1edc8b1f5bed71d0ef4508cd82a7eacee",
+ "checkpoint_sha256": "e70569ec278386cf1ce0de731856f31ae741fd4bfec8d3a25aedc7759795385c",
+ "parameters": 5444,
+ "train_points": 256,
+ "validation_points": 514,
+ "label_generation_s": 0.004322172608226538,
+ "training_and_selection_s": 27.083736544009298,
+ "peak_allocated_gpu_gib": 0.06480073928833008,
+ "resources": [
+  {
+   "cpu_max_c": 72.25,
+   "gpu_c": 46.0,
+   "free_gib": 16.403831481933594
+  },
+  {
+   "cpu_max_c": 70.625,
+   "gpu_c": 47.0,
+   "free_gib": 16.403770446777344
+  },
+  {
+   "cpu_max_c": 71.625,
+   "gpu_c": 47.0,
+   "free_gib": 16.403770446777344
+  },
+  {
+   "cpu_max_c": 69.0,
+   "gpu_c": 47.0,
+   "free_gib": 16.403770446777344
+  },
+  {
+   "cpu_max_c": 67.375,
+   "gpu_c": 47.0,
+   "free_gib": 16.403766632080078
+  },
+  {
+   "cpu_max_c": 66.375,
+   "gpu_c": 47.0,
+   "free_gib": 16.403766632080078
+  },
+  {
+   "cpu_max_c": 65.75,
+   "gpu_c": 47.0,
+   "free_gib": 16.403766632080078
+  },
+  {
+   "cpu_max_c": 65.375,
+   "gpu_c": 47.0,
+   "free_gib": 16.403766632080078
+  },
+  {
+   "cpu_max_c": 65.5,
+   "gpu_c": 47.0,
+   "free_gib": 16.403766632080078
+  },
+  {
+   "cpu_max_c": 65.5,
+   "gpu_c": 47.0,
+   "free_gib": 16.403762817382812
+  },
+  {
+   "cpu_max_c": 65.375,
+   "gpu_c": 47.0,
+   "free_gib": 16.403759002685547
+  },
+  {
+   "cpu_max_c": 67.0,
+   "gpu_c": 48.0,
+   "free_gib": 16.403759002685547
+  },
+  {
+   "cpu_max_c": 70.125,
+   "gpu_c": 48.0,
+   "free_gib": 16.403759002685547
+  },
+  {
+   "cpu_max_c": 68.75,
+   "gpu_c": 48.0,
+   "free_gib": 16.403724670410156
+  },
+  {
+   "cpu_max_c": 67.375,
+   "gpu_c": 48.0,
+   "free_gib": 16.403724670410156
+  },
+  {
+   "cpu_max_c": 66.25,
+   "gpu_c": 48.0,
+   "free_gib": 16.40371322631836
+  },
+  {
+   "cpu_max_c": 65.625,
+   "gpu_c": 48.0,
+   "free_gib": 16.40371322631836
+  },
+  {
+   "cpu_max_c": 65.625,
+   "gpu_c": 48.0,
+   "free_gib": 16.40371322631836
+  },
+  {
+   "cpu_max_c": 67.0,
+   "gpu_c": 48.0,
+   "free_gib": 16.40369415283203
+  },
+  {
+   "cpu_max_c": 66.625,
+   "gpu_c": 48.0,
+   "free_gib": 16.40369415283203
+  },
+  {
+   "cpu_max_c": 66.0,
+   "gpu_c": 48.0,
+   "free_gib": 16.40369415283203
+  }
+ ]
+}

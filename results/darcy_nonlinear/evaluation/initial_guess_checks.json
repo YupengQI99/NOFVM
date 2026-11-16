@@ -1,0 +1,32 @@
+[
+ {
+  "initial": -5.0,
+  "converged": true,
+  "trace_max_difference": 1.687538997430238e-14,
+  "iterations": [
+   3,
+   3,
+   7
+  ]
+ },
+ {
+  "initial": 0.0,
+  "converged": true,
+  "trace_max_difference": 7.283063041541027e-14,
+  "iterations": [
+   4,
+   4,
+   5
+  ]
+ },
+ {
+  "initial": 10.0,
+  "converged": true,
+  "trace_max_difference": 1.4921397450962104e-12,
+  "iterations": [
+   4,
+   3,
+   7
+  ]
+ }
+]

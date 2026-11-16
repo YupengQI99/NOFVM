@@ -1,0 +1,16 @@
+{
+ "steps": 4000,
+ "selected_step": 3800,
+ "selection_objective": 0.013774638995528221,
+ "seed": 1301,
+ "batch_size": 8,
+ "internal_points_per_step": 512,
+ "train_materials": 128,
+ "validation_materials": 16,
+ "test_materials_generated": 0,
+ "parameters": 1620672,
+ "fixed_buffer_elements": 654908,
+ "training_s": 46.60810766834766,
+ "peak_gpu_allocated_gib": 0.5591835975646973,
+ "checkpoint_sha256": "2f31499f1cb13ee8fbc4393e891c55cec06113d2f1f0f2e50d0d5481b57291f0"
+}

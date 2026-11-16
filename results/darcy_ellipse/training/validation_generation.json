@@ -1,0 +1,162 @@
+[
+ {
+  "index": 0,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 3.885780586188048e-16,
+  "constant_field": 4.3514081227158385e-12,
+  "constant_flux": 5.312972284343687e-13,
+  "equation_residual": 4.440892098500626e-14,
+  "wall_s": 0.04128384217619896
+ },
+ {
+  "index": 1,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 4.440892098500626e-16,
+  "constant_field": 4.4859671533004075e-12,
+  "constant_flux": 7.951417302365371e-13,
+  "equation_residual": 6.039613253960852e-14,
+  "wall_s": 0.028063738252967596
+ },
+ {
+  "index": 2,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 3.885780586188048e-16,
+  "constant_field": 3.114841717888339e-12,
+  "constant_flux": 4.1300296516055823e-13,
+  "equation_residual": 4.973799150320701e-14,
+  "wall_s": 0.03566704923287034
+ },
+ {
+  "index": 3,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 3.3306690738754696e-16,
+  "constant_field": 5.527578395003729e-12,
+  "constant_flux": 8.980594046192891e-13,
+  "equation_residual": 5.3290705182007514e-14,
+  "wall_s": 0.027156261261552572
+ },
+ {
+  "index": 4,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 3.3306690738754696e-16,
+  "constant_field": 2.717603919677458e-12,
+  "constant_flux": 3.333999742949345e-13,
+  "equation_residual": 3.907985046680551e-14,
+  "wall_s": 0.03571871807798743
+ },
+ {
+  "index": 5,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 6.661338147750939e-16,
+  "constant_field": 4.144240506320784e-12,
+  "constant_flux": 1.2536638394067268e-12,
+  "equation_residual": 7.460698725481052e-14,
+  "wall_s": 0.02720707841217518
+ },
+ {
+  "index": 6,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 4.440892098500626e-16,
+  "constant_field": 5.6847859752906515e-12,
+  "constant_flux": 9.78550573904613e-13,
+  "equation_residual": 4.440892098500626e-14,
+  "wall_s": 0.035688591189682484
+ },
+ {
+  "index": 7,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 4.996003610813204e-16,
+  "constant_field": 3.249622793077833e-12,
+  "constant_flux": 5.077049891610841e-13,
+  "equation_residual": 4.973799150320701e-14,
+  "wall_s": 0.027218539733439684
+ },
+ {
+  "index": 8,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 3.885780586188048e-16,
+  "constant_field": 4.321876190260809e-12,
+  "constant_flux": 9.312550730555813e-13,
+  "equation_residual": 5.3290705182007514e-14,
+  "wall_s": 0.03558774897828698
+ },
+ {
+  "index": 9,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 4.996003610813204e-16,
+  "constant_field": 2.722266856380884e-12,
+  "constant_flux": 3.9734882051334353e-13,
+  "equation_residual": 3.730349362740526e-14,
+  "wall_s": 0.027227305807173252
+ },
+ {
+  "index": 10,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 3.885780586188048e-16,
+  "constant_field": 2.842615032250251e-12,
+  "constant_flux": 4.293787547737793e-13,
+  "equation_residual": 4.263256414560601e-14,
+  "wall_s": 0.03546002600342035
+ },
+ {
+  "index": 11,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 3.885780586188048e-16,
+  "constant_field": 2.0254908861261356e-12,
+  "constant_flux": 3.184119634624949e-13,
+  "equation_residual": 5.684341886080802e-14,
+  "wall_s": 0.026957333087921143
+ },
+ {
+  "index": 12,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 4.440892098500626e-16,
+  "constant_field": 5.6348259391825195e-12,
+  "constant_flux": 1.010413974711355e-12,
+  "equation_residual": 4.263256414560601e-14,
+  "wall_s": 0.03561535011976957
+ },
+ {
+  "index": 13,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 7.216449660063518e-16,
+  "constant_field": 3.707256723828323e-12,
+  "constant_flux": 5.756506382681437e-13,
+  "equation_residual": 4.973799150320701e-14,
+  "wall_s": 0.026953726075589657
+ },
+ {
+  "index": 14,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 4.996003610813204e-16,
+  "constant_field": 1.574962382733247e-12,
+  "constant_flux": 2.324807013565078e-13,
+  "equation_residual": 5.684341886080802e-14,
+  "wall_s": 0.03494215989485383
+ },
+ {
+  "index": 15,
+  "k_min": 1.0,
+  "k_max": 1000.0,
+  "symmetry": 4.440892098500626e-16,
+  "constant_field": 3.2949198924825396e-12,
+  "constant_flux": 4.0523140398818214e-13,
+  "equation_residual": 5.3290705182007514e-14,
+  "wall_s": 0.02696227189153433
+ }
+]
